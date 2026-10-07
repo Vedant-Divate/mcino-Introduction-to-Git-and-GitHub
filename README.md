@@ -19,3 +19,5 @@ for the Coursera Final Project: Part 1 – GitHub UI and Part 2 – Git CLI.
 Maintained by Vedant Divate (https://github.com/Vedant-Divate).
 
 _© 2022 XYZ, Inc._
+
+Fixed typo: caluclator -> calculator (Vedant Divate).
